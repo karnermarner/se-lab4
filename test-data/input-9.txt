@@ -1,0 +1,3 @@
+# ALL: az egyik hibazik, a masik tuzel
+GT4500,5,1.0,5,0
+TORPEDO,ALL
