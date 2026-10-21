@@ -1,0 +1,4 @@
+# secondary hibazik, nincs fallback a primaryra
+GT4500,5,0,5,1.0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
